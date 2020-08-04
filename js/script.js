@@ -1,5 +1,5 @@
 function openChatting1() {
-  url = "http://busanit4033.cafe24.com/chatting.jsp?userNum=33&opponentNum=44";
+  url = "http://busanit4033.cafe24.com/chatting.jsp?userNum=33&opponentNum=42";
   window.open(
     url,
     "chat1",
@@ -7,7 +7,7 @@ function openChatting1() {
   );
 }
 function openChatting2() {
-  url = "http://busanit4033.cafe24.com/chatting.jsp?userNum=44&opponentNum=33";
+  url = "http://busanit4033.cafe24.com/chatting.jsp?userNum=42&opponentNum=33";
   window.open(
     url,
     "chat2",
